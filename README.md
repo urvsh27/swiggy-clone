@@ -1,6 +1,6 @@
 # Swiggy full stack clone
 
-Full stack swiggy clone using next js, nest js, graphql, nx mono repo and pnpm workspaces.
+Full stack swiggy clone using next js, nest js, nx mono repo and pnpm workspaces.
 
 ## Application services
 
