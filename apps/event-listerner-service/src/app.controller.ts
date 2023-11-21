@@ -9,6 +9,6 @@ export class AppController {
   @EventPattern("payment_status_updated")
   async handleMessagePrinted(data: Record<string, unknown>) {
     console.log(data);
-    //
+    // Db update code
   }
 }

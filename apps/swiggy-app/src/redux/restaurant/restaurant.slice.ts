@@ -1,5 +1,4 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import axios from "axios";
 import { ExternalApis } from "../../api";
 
 export interface ApiData {
@@ -121,7 +120,6 @@ export const RestaurantSlice = createSlice({
   },
 });
 
-filterRestaurants;
 export const topRestaurants = (state: any) => state.restaurants.restaurants;
 export const selectedRestaurants = (state: any) => state.restaurants.selectedRestaurant;
 export const filteredRestaurants = (state: any) => state.restaurants.filteredRestaurant;

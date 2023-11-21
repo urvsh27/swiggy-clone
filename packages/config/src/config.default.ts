@@ -18,4 +18,4 @@ export const DEFAULT_CONFIG: ConfigData = {
   logLevel: "",
 };
 
-console.log("==========>>>>>>>>>>>>>>>", process.env.DATABASE_URL);
+console.log("<<<<=== DATABASE URL===>>>>", process.env.DATABASE_URL);
