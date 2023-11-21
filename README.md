@@ -13,5 +13,5 @@ Full stack swiggy clone using next js, nest js, nx mono repo and pnpm workspaces
 | order service | 3004    |
 | payment service | 3005   |
 | delivery service | 3006    |
-| MQ Listener service | 3007     |
+| MQ Listener service | 15672     |
 
