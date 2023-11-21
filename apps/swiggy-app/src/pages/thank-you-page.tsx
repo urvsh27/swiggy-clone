@@ -10,8 +10,8 @@ function ThankyouPage({ setOpenLoginSignup, setLoadLogin }: any) {
 				setLoadLogin={setLoadLogin}
 			/>
 			<img
-				style={{ margin: "auto" }}
-				src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/761f1b117480989.6076bf3919f1e.gif'
+				style={{ margin: "auto" , height : "auto",width : "80%"}}
+				src='https://miro.medium.com/v2/resize:fit:500/format:webp/1*fE3JkGyzhWXlXApVnShDtw.gif'
 				alt='Thank You'
 			/>
 			<Footer />
